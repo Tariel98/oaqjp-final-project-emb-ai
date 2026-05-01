@@ -20,7 +20,7 @@ def emotion_detector(text_to_analyze):
 
     score_mapping = {
         anger_score : 'anger',
-        disgust_score: 'digust',
+        disgust_score: 'disgust',
         fear_score : 'fear',
         joy_score : 'joy',
         sadness_score: 'sadness'
